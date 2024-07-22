@@ -28,6 +28,9 @@
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=comentarios">Integração Comentários</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=basico&file=desafio">Integração Desafio</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
