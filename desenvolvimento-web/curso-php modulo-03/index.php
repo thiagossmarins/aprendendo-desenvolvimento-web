@@ -22,6 +22,12 @@
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=html">Integração HTML</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=basico&file=css">Integração CSS</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=basico&file=comentarios">Integração Comentários</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
