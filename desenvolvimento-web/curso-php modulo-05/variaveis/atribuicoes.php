@@ -35,7 +35,7 @@ echo '<br>' .  $texto;
 $texto = $texto  . ' qualquer';
 echo '<br>'  . $texto;
 
-// $variaveInexistente = 'valor existente';
-echo '<br>'  . $variaveInexistente;
-$valor = $variaveInexistente ?? 'valor default';
+// $variavelInexistente = 'valor existente';
+var_dump($variavelInexistente);
+$valor = $variavelInexistente ?? 'valor default';
 echo '<br>' . $valor;
