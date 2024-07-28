@@ -34,6 +34,11 @@ var_dump(5 <=> 3);
 var_dump(50<=> 50);
 var_dump(5 <=> 50);
 
+echo "<p> </p>";
+echo 'Como saber se o numero é verdadeiro ou falso<br>';
+echo "usando '!!'<br>";
+var_dump(!!5);
+
 ?>
 
 <style>
