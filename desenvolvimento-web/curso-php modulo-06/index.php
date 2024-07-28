@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="recursos/css/estilo.css">
     <title>Curso PHP</title>
 </head>
-
 <body>
     <header class="cabecalho">
         <h1>Curso PHP</h1>
@@ -91,13 +89,17 @@
                         </li>
                     </ul>
                 </div>
-
                 <div class="modulo azul">
-                    <h3>Variaveis</h3>
+                    <h3>Variáveis</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=basico">
-                                Variaveis
+                                Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                                Desafio Equação
                             </a>
                         </li>
                         <li>
@@ -116,8 +118,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=variaveis_referencia">
-                                Valor vs Referencia
+                            <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
+                                Desafio Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                                Valor vs Referência
                             </a>
                         </li>
                         <li>
@@ -127,7 +134,21 @@
                         </li>
                     </ul>
                 </div>
-
+                <div class="modulo roxo">
+                    <h3>Controle</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=if_else">
+                                if else
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operadores_relacionais">
+                                Operadores relacionais
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
@@ -135,5 +156,4 @@
         COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
-
 </html>
