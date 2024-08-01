@@ -136,36 +136,6 @@
                         </li>
                     </ul>
                 </div>
-                <div class="modulo roxo">
-                    <h3>Controle</h3>
-                    <ul>
-                        <li>
-                            <a href="exercicio.php?dir=controle&file=if_else">
-                                if else
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=controle&file=operadores_relacionais">
-                                Operadores relacionais
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=controle&file=operadores_logicos">
-                                Operadores lógicos
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=controle&file=operador_ternario">
-                                Operador ternário
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=controle&file=switch">
-                                Switch
-                            </a>
-                        </li>
-                    </ul>
-                </div>
             </nav>
         </div>
     </main>
