@@ -24,4 +24,15 @@ echo '<br>';
 
 unset($dadosComletos["nome"]);
 echo '<br>';
-print_r($dadosComletos);
+var_dump($dadosComletos);
+
+$impares = [1, 3, 5, 7, 9];
+$pares = [0, 2, 4, 6, 8];
+
+$decimais = array_merge($pares, $impares);
+echo '<br>';
+print_r($decimais);
+
+sort($decimais);
+echo '<br>';
+print_r($decimais);

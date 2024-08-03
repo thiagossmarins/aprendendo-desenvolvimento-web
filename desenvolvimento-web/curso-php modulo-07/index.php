@@ -34,6 +34,11 @@
                                 operacoes
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=multi">
+                                Multidimensionais
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
