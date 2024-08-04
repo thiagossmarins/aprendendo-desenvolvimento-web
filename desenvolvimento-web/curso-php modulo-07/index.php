@@ -39,6 +39,22 @@
                                 Multidimensionais
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=constantes">
+                                Arrays constantes
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=get">
+                                Get
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=comparacao">
+                                Comparação Arrays
+                            </a>
+                        </li>
+
                     </ul>
                 </div>
                 <div class="modulo roxo">
