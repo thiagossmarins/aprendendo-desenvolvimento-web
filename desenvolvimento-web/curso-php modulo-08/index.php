@@ -33,7 +33,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=break_continue">
+                            <a href="exercicio.php?dir=repeticoes&file=break-continue">
                                 Break/Continue
                             </a>
                         </li>
