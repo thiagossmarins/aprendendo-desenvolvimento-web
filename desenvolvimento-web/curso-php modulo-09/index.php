@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="recursos/css/estilo.css">
     <title>Curso PHP</title>
 </head>
-
 <body>
     <header class="cabecalho">
         <h1>Curso PHP</h1>
@@ -16,8 +14,37 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-
-                <div class="modulo verde-escuro">
+            <div class="modulo vermelho-escuro">
+                    <h3>7. Funções</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=escopo">
+                                Funções e Escopo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_retorno">
+                                Argumentos e retorno
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                                Argumentos variaveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                                Argumentos Padrao
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                                Usando Tipos
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            <div class="modulo verde-escuro">
                     <h3>6. Repetições</h3>
                     <ul>
                         <li>
@@ -36,7 +63,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=break-continue">
+                            <a href="exercicio.php?dir=repeticoes&file=break_continue">
                                 Break/Continue
                             </a>
                         </li>
@@ -294,5 +321,4 @@
         COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
-
 </html>
